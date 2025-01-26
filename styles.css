@@ -49,3 +49,19 @@ a{
   margin: 0%;
 }
 
+.logo{
+  animation: logo 2s infinite ease-in-out;
+}
+
+.fiest{
+  display: block;
+ height: 50px;
+ width: 300px;
+  box-shadow: 1px 1px 10px  #fdb99b;
+  border-radius: 10px;
+  font-family: comic Neue;
+  text-align: center;
+  align-content: center;
+  margin: 0% auto;
+}
+

@@ -1,0 +1,45 @@
+@keyframes logo {
+    0% {  background: linear-gradient(#FFAFBD , #ffc3a0);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;}
+  
+          10%{  background: linear-gradient(#43c6ac , #f8ffae);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;}
+  
+           20%{  background: linear-gradient(#e8cbc0, #636fa4);
+        background-clip: text;
+        -webkit-text-fill-color: transparent;}
+  
+            30%{  background: linear-gradient(#dce35b, #45b649);
+          background-clip: text;
+          -webkit-text-fill-color: transparent;}
+  
+             40%{  background: linear-gradient(#9cecfb, #65c7f7, #0052d4);
+            background-clip: text;
+            -webkit-text-fill-color: transparent;}
+  
+             50%{  background: linear-gradient(#dbe6f6, #c5796d);
+              background-clip: text;
+              -webkit-text-fill-color: transparent;}
+  
+             60%{  background: linear-gradient(#3494e6, #ec6ead);
+                background-clip: text;
+                -webkit-text-fill-color: transparent;}
+  
+             70%{  background: linear-gradient(#67b26f, #4ca2cd);
+                  background-clip: text;
+                  -webkit-text-fill-color: transparent;}
+  
+              80%{  background: linear-gradient(#f3904f, #3b4371);
+                    background-clip: text;
+                    -webkit-text-fill-color: transparent;}
+  
+               90%{  background: linear-gradient(#ee0979, #ff6a00);
+                      background-clip: text;
+                      -webkit-text-fill-color: transparent;}
+  
+               100%{  background: linear-gradient(#a770ef, #cf8bf3, #fdb99b);
+                        background-clip: text;
+                        -webkit-text-fill-color: transparent;}
+  }
