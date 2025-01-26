@@ -43,11 +43,6 @@ a{
   font-weight: 600;
 }
 
-.sidebar{
-    position: fixed;
-    display: none;
-}
-
 .logo{
   float: left;
   font-family: Playwrite IN;
@@ -58,28 +53,16 @@ a{
   animation: logo 20s infinite ease-in;
 }
 
-body{
-    background-image: url(bg1.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
+.mem{
+  display: block;
+ height: 70px;
+ width: 300px;
+  box-shadow: 6px 5px 10px  #efb7a0;
+  border-radius: 14px;
+  font-family: comic Neue;
+  text-align: center;
+  align-content: center;
+  margin: 0% auto;
+ 
 }
 
-.circle{
-    border-radius: 50%;
-    height: 290px;
-    width: 290px;
-    background-color: #FFAFBD;
-    position: absolute;
-    right: -25%;
-    background-image: url(1p.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-.firsts h1{
-    color: #f7b096;
-    font-size: 50px;
-}
